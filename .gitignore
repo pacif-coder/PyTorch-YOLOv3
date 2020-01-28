@@ -1,4 +1,3 @@
-
 .DS_Store
 build
 .git
@@ -8,5 +7,6 @@ output
 data/coco
 backup
 weights/*.weights
+weights/*.conv.*
 __pycache__
 checkpoints
